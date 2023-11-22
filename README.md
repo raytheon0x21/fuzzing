@@ -1,4 +1,4 @@
-# Fuzzing for Web Payload Discovery
+# Fuzzing for Web Discovery
 
 This repository provides a set of resources for performing fuzzing activities aimed at discovering web payloads. Fuzzing is a testing technique that involves providing invalid, unexpected, or random data as input to a computer program to identify vulnerabilities and weaknesses. In the context of web security, fuzzing can be used to find potential vulnerabilities in web applications by sending different payloads to different input fields, keep following this project, it will be continuously updated.
 
