@@ -178,7 +178,7 @@ sauce_access_key
 sandbox_aws_secret_access_key
 sandbox_aws_access_key_id
 sandbox_access_token
-   salesforce_bulk_test_security_token
+salesforce_bulk_test_security_token
 salesforce_bulk_test_password
 sacloud_api
 sacloud_access_token_secret
