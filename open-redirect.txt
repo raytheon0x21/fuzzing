@@ -1,3 +1,4 @@
+https://google.com/amp/s/poc.rhynorater.com
 //google.com/%2f..
 //www.whitelisteddomain.tld@google.com/%2f..
 ///google.com/%2f..
